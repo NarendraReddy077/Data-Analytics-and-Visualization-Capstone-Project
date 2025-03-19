@@ -5,5 +5,5 @@
 
 > Building Dashboard with Google Looker Studio:
 
-    1. [Current and Future trends](https://lookerstudio.google.com/reporting/540adc62-a6be-460e-a99e-0fa9160fe533)
-    2. [Demographoics](https://lookerstudio.google.com/s/m-PTZz-44P0)
+1. [Current and Future trends](https://lookerstudio.google.com/reporting/540adc62-a6be-460e-a99e-0fa9160fe533)
+2. [Demographoics](https://lookerstudio.google.com/s/m-PTZz-44P0)
